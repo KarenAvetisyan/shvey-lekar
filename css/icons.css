@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../font/icons/icomoon.eot?9qn5i2');
+  src:  url('../font/icons/icomoon.eot?9qn5i2#iefix') format('embedded-opentype'),
+    url('../font/icons/icomoon.ttf?9qn5i2') format('truetype'),
+    url('../font/icons/icomoon.woff?9qn5i2') format('woff'),
+    url('../font/icons/icomoon.svg?9qn5i2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-collections:before {
+  content: "\e916";
+  color: #ff5722;
+}
+.icon-diag:before {
+  content: "\e900";
+}
+.icon-stock:before {
+  content: "\e901";
+}
+.icon-build:before {
+  content: "\e902";
+}
+.icon-master:before {
+  content: "\e903";
+}
+.icon-security:before {
+  content: "\e904";
+}
+.icon-arr-right:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-metro:before {
+  content: "\e906";
+}
+.icon-msh-brands{
+  font-size: 17px;
+}
+.icon-msh-brands:before {
+  font-size: 17px;
+  content: "\e907";
+}
+.icon-msh-help{
+  font-size: 17px;
+}
+.icon-msh-help:before {
+  font-size: 17px;
+  content: "\e908";
+}
+.icon-msh-obuchenie{
+  font-size: 15px;
+}
+.icon-msh-obuchenie:before {
+  font-size: 15px;
+  content: "\e909";
+}
+.icon-msh-servisnoe{
+  font-size: 15px;
+}
+.icon-msh-servisnoe:before {
+  font-size: 15px;
+  content: "\e90a";
+}
+.icon-msh-rukav{
+  font-size: 21px;
+}
+.icon-msh-rukav:before {
+  font-size: 21px;
+  content: "\e90b";
+}
+.icon-msh-vish{
+  font-size: 21px;
+}
+.icon-msh-vish:before {
+  font-size: 21px;
+  content: "\e90c";
+}
+.icon-msh-prom{
+  font-size: 21px;
+}
+.icon-msh-prom:before {
+  font-size: 21px;
+  content: "\e90d";
+}
+.icon-msh-overloc{
+  font-size: 21px;
+}
+.icon-msh-overloc:before {
+  font-size: 21px;
+  content: "\e90e";
+}
+.icon-caret:before {
+  content: "\e90f";
+}
+.icon-tel:before {
+  content: "\e910";
+  color: #fff;
+}
+.icon-tel-small:before {
+  content: "\e915";
+  color: #ff5722;
+}
+.icon-ws:before {
+  content: "\e911";
+  color: #28d146;
+}
+.icon-tg{
+  font-size: 14px;
+}
+.icon-tg:before {
+  content: "\e912";
+  color: #27a7e7;
+  font-size: 14px;
+}
+.icon-vk{
+  font-size: 11px;
+}
+.icon-vk:before {
+  content: "\e913";
+  color: #4d7198;
+  font-size: 11px;
+}
+.icon-cursor:before {
+  content: "\e914";
+}
